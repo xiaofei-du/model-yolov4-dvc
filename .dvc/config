@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gs://public-europe-west2-c-artifacts/vdp/public-dvc-models/yolov4
